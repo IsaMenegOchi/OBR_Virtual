@@ -1,0 +1,10 @@
+<!-- !Para puxar em casa -->
+    
+    1. git clone https://github.com/IsaMenegOchi/OBR_Virtual.git
+
+<!-- !Para mandar as coisas -->
+
+    1. git add .
+    2. git commit -m "Nome do que você fez"
+    3. git push
+
